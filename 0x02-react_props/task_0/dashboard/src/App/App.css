@@ -1,0 +1,10 @@
+:root {
+	--main-color: #E11D3F;
+	font: 18px Helvetica, Arial, sans-serif;
+}
+
+.App {
+  background-color: #ffffff;
+	display: flex;
+	flex-direction: column;
+}

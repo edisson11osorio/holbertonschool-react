@@ -1,0 +1,9 @@
+.App-body {
+    margin: 1rem;
+    padding: 36px 24px;
+    min-height: 50vh;
+}
+
+.App-body label {
+    margin: 0 10px 0 8px;
+}
